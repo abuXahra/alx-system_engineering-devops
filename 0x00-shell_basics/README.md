@@ -13,3 +13,5 @@
  	- Long format
 	- with uuser and group IDs displayed numerically
 	- And hidden files (starting with .)
+
+-Script 6-firstdirectory: Create a directory my_first_directory in the /temp/ directory
