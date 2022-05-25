@@ -23,3 +23,5 @@
 - Script 9-firstdeletion: Delete the my_first_directory that is in the /tmp directory
 
 - Script 10-back: Changes the working directory to the previouse one
+
+- Script 11-lists: Lists all files (even once with names beginning with a period character, wich are normally hidden) in the current directory and the parent of the working directory and /boot
