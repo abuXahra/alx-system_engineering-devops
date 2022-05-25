@@ -5,4 +5,6 @@
 
 - Script 2-bring_me_home: take the user from working directory to the home directory
 
--Script 3-listfiles: Display current directory content in along format
+-Script 3-listfiles: Display current directory contents in along format
+
+-Script 4-listmorefiles: Display current directory contents including the hidden files 
