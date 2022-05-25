@@ -25,3 +25,5 @@
 - Script 10-back: Changes the working directory to the previouse one
 
 - Script 11-lists: Lists all files (even once with names beginning with a period character, wich are normally hidden) in the current directory and the parent of the working directory and /boot
+
+- Script 12-file_type prints the type of the named iamafile in the /tmp directory
