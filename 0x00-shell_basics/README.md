@@ -17,3 +17,6 @@
 -Script 6-firstdirectory: Create a directory my_first_directory in the /temp/ directory
 
 -Script 7-movethatfile: move the file betty from /tmp/ to /tmp/my_first_directory
+
+-Script 8-firstdelet: Delete the file betty from /tmp/my_first_directory/
+
