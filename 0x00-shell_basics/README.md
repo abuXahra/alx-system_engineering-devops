@@ -27,3 +27,5 @@
 - Script 11-lists: Lists all files (even once with names beginning with a period character, wich are normally hidden) in the current directory and the parent of the working directory and /boot
 
 - Script 12-file_type prints the type of the named iamafile in the /tmp directory
+
+- Script 13-symbolic_link: Create a sumbolic link to /bin/ls, named __ls__. The symbolic link shold be created in the current working directory
