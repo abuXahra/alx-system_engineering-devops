@@ -5,3 +5,5 @@
 - SCRIPT 2-groups: is a script that prints all the groups the current user is part of.
 
 - SCRIPT 3-new_owner: is  a script that changes the owner of the file hello to the user betty.
+
+- SCRIPT 4-empty: is  script that creates an empty file called hello.
