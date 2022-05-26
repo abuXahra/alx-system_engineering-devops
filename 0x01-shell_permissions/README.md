@@ -39,3 +39,7 @@
 
 - SCRIPT 12-directory_permissions: is a script that creates a directory called my_dir with permissions 751 in the working directory.
 
+- SCRIPT 13-change_group: is a script that changes the group owner to school for the file hello
+
+	-	The file hello will be in the working directory
+
