@@ -45,3 +45,8 @@
 
 - SCRIPT 100-change_owner_and_group: is a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 
+- SCRIPT 101-symbolic_link_permissions: is a script that changes the owner and the group owner of _hello to vincent and staff respectivel.
+
+	The file _hello is in the working directory
+	The file _hello is a symbolic link
+
