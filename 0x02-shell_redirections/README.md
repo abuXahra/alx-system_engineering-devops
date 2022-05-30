@@ -11,3 +11,11 @@
 4. SCRIPT 4-lastlines: Display the last 10 lines of /etc/passwd
 
 5. SCRIPT 5-firstlines: Display the first 10 lines of /etc/passwd
+
+6. SCRIPT 6-third_line: Displays the third line of the file iacta.
+
+	The file iacta will be in the working directory
+
+		- You’re not allowed to use sed
+
+7. SCRIPT
