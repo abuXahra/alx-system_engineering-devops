@@ -18,4 +18,4 @@
 
 		- You’re not allowed to use sed
 
-7. SCRIPT
+7. SCRIPT 7-file: Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
