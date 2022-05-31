@@ -51,3 +51,5 @@
 15. SCRIPT 15-countthatword: Display the number of lines that contain the pattern “bin” in the file /etc/passwd
 
 16. SCRIPT 16-whatsnext: Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+
+17. SCRIPT 17-hidethisword: Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
