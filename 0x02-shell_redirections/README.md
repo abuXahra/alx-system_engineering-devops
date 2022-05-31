@@ -62,4 +62,4 @@
 
 20. SCRIPT 20-hiago: Create a script that removes all letters c and C from input.
 
-21. SCRIPT 21
+21. SCRIPT 21-revers: Is a script that reverse its input.
