@@ -13,3 +13,5 @@
  3. SCRIPT 3-path: is a script that counts the number of directories in the PATH.
 
  4. SCRIPT 4-global_variables:is a script that lists environment variables.
+
+ 5. SCRIPT 5-local_variables: is  a script that lists all local variables and environment variables, and functions.
